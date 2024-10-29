@@ -49,9 +49,9 @@ class AStarPlanner:
         self.rc_y = rc_y
         
 
-        self.Delta_C1 = 1.30 # cost intensive area 1 modifier
-        self.Delta_C2 = 1.15 # cost intensive area 2 modifier
-        self.Delta_C3 = 0.95 
+        self.Delta_C1 = 0.30 # cost intensive area 1 modifier
+        self.Delta_C2 = 0.15 # cost intensive area 2 modifier
+        self.Delta_C3 = -0.05 
 
         self.costPerGrid = 1 
 
@@ -360,7 +360,7 @@ def main():
 
     rc_x, rc_y = [], []
     for i in range(-12,60):
-        for j in range(40,40+5):
+        for j in range(5,5+5):
             rc_x.append(i)
             rc_y.append(j)
 
