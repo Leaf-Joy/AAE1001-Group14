@@ -376,7 +376,7 @@ def main():
         plt.pause(0.001) # pause 0.001 seconds
         plt.show() # show the plot
 
-T = 87.8312841947207
+T = 81.97341981845162
 CF1 = 0.76
 F1 = 54
 CT1 = 15
