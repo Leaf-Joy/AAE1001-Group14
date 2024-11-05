@@ -9,3 +9,37 @@ We should finish before 1/12/2024.
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
     <li><a href="#Background">Background</a></li>
+
+
+
+<table style="width: 100%" border="1">
+      <tbody>
+        <tr>
+          <td><br>
+          </td>
+          <td>scenario 1</td>
+          <td>scenario 2</td>
+          <td>scenario 3</td>
+        </tr>
+        <tr>
+          <td>A321</td>
+          <td>80664.78199526577</td>
+          <td>38651.84154413771</td>
+          <td>93392.7503747729</td>
+        </tr>
+        <tr>
+          <td>A330-900neo</td>
+          <td>94516.06151080105</td>
+          <td>54319.666004656065</td>
+          <td>92937.6516749357</td>
+        </tr>
+        <tr>
+          <td>A350-900</td>
+          <td>97911.9406095872</td>
+          <td>49770.00548336953</td>
+          <td>94129.60386034427</td>
+        </tr>
+      </tbody>
+    </table>
+    <p><br>
+    </p>
