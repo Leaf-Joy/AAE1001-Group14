@@ -11,7 +11,6 @@ We should finish before 1/12/2024.
     <ol>
       <li><a href="#Introduction">Introduction<a/></li>
       <li><a href="#Cost of 3 scenario">Cost of 3 scenario</a></li>
-      
     </ol>
 </details>
 
