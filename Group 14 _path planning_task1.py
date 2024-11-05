@@ -310,16 +310,16 @@ def main():
 
     # set obstacle positions for group 14
     ox, oy = [], []
-    for i in range(-12, 62): # draw the button border 
+    for i in range(-12, 60): # draw the button border 
         ox.append(i)
         oy.append(-12.0)
-    for i in range(-12, 62): # draw the right border
-        ox.append(62.0)
+    for i in range(-12, 60): # draw the right border
+        ox.append(60.0)
         oy.append(i)
-    for i in range(-12, 62): # draw the top border
+    for i in range(-12, 60): # draw the top border
         ox.append(i)
-        oy.append(62.0)
-    for i in range(-12, 62): # draw the left border
+        oy.append(60.0)
+    for i in range(-12, 60): # draw the left border
         ox.append(-12.0)
         oy.append(i)
 
@@ -329,7 +329,7 @@ def main():
 
     for i in range(-12, 20):
         ox.append(i)
-        oy.append(-1*i+40)
+        oy.append(-1*i+30)
 
     for i in range(-12, 20):
         ox.append(30.0)
