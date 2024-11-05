@@ -9,7 +9,8 @@ We should finish before 1/12/2024.
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
     <li><a href="## Cost of 3 scenario">Cost of 3 scenario</a></li>
-
+  
+</details>
 
 <!-- Cost of 3 scenario -->
 ## Cost of 3 scenario
