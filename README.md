@@ -19,7 +19,7 @@ We should finish before 1/12/2024.
 Path Planning to Aviation Engineering is about designing better air routes to reduce fuel consumption, increase efficiency, and ultimately increase the airline's ability to make money. 
 
 ## Tast A1
-![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/TastA1.gif) 
+![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/TastA1.gif) <br>
 We link the original starting point (starting point 1) to the new end point 1 created and set the position of end point 1 as starting point 2, then the positions of end point 1 and starting point 2 become check points 1. 
 
 
