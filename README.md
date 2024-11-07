@@ -16,7 +16,7 @@ We should finish before 1/12/2024.
 
 <a id="Introduction"></a>
 ## Introduction
-Path Planning to Aviation Engineering is about designing better air routes to reduce fuel consumption, increase efficiency, and ultimately increase the airline's ability to make money.
+Path Planning to Aviation Engineering is about designing better air routes to reduce fuel consumption, increase efficiency, and ultimately increase the airline's ability to make money. 
 
 ![This is a image]() 
 
