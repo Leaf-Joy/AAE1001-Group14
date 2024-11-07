@@ -568,12 +568,15 @@ def main():
 
 
     if show_animation:  # pragma: no cover
+        plt.plot(fc_x, fc_y, "oy") # plot the cost intensive area 1
+        plt.plot(tc_x, tc_y, "or") # plot the cost intensive area 2
+        
         plt.plot(ox, oy, ".k") # plot the obstacle
         plt.plot(sx, sy, "og") # plot the start position 
         plt.plot(gx, gy, "xb") # plot the end position
+        plt.plot(p1x, p1y, "ob") #plot the first checkpoint
+        plt.plot(p2x, p2y, "or") #plot the second checkpoint
         
-        plt.plot(fc_x, fc_y, "oy") # plot the cost intensive area 1
-        plt.plot(tc_x, tc_y, "or") # plot the cost intensive area 2
        
         plt.grid(True) # plot the grid to the plot panel
         plt.axis("equal") # set the same resolution for x and y axis 
