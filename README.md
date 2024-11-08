@@ -32,6 +32,7 @@ For task 1, we are required to: <br>
 </ul>
 
 
+
 <a id="Task 2"></a>
 ## Task 2
 For task 2, we are required to: <br>
@@ -39,12 +40,15 @@ For task 2, we are required to: <br>
 <li> Design a new cost area (jet stream) that can reduce the cost of the route. <br> </li>
 </ul>
 
+
+
 <a id="Task 3"></a>
 ## Task 3
 For task 3, we are required to: <br>
 <ul>
 <li> Design a new Aircraft Model that achieve minimum cost for the challenge assigned to your group. <br> </li>
 </ul>
+
 
 
 <a id="Additional Task 1"></a>
@@ -71,9 +75,16 @@ For task A2, we are required to modify the code so that: <br>
 </ul>
 
 
+
 <a id="Additional Task 3"></a>
 ## Task A3
-For task A3, we are required to: <br>
+For task A3, we are required to: <br> 
+<ul>
+<li> Choose 2 more algorithms from GitHub repositories <br> </li>
+<li> Modify the code so all 3 algorithms are working with the same obstacle set <br> </li>
+<li> Try and compare the algorithms and conduct a discussion <br> </li>
+</ul>
+
 
 
 <!-- Cost of 3 scenario -->
