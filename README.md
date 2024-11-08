@@ -26,15 +26,20 @@ Path Planning to Aviation Engineering is about designing better air routes to re
 
 <a id="Task 1"></a>
 ## Task 1
+For task 1, we are required to: <br>
+Find an appropriate aircraft model that achieve minimum cost for each scenario for the challenge assigned to your group. <br>
 
 
 <a id="Task 2"></a>
 ## Task 2
+For task 2, we are required to: <br>
+Design a new cost area (jet stream) that can reduce the cost of the route. <br>
 
 
 <a id="Task 3"></a>
 ## Task 3
-
+For task 3, we are required to: <br>
+Design a new Aircraft Model that achieve minimum cost for the challenge assigned to your group. <br>
 
 <a id="Additional Task 1"></a>
 ## Task A1
