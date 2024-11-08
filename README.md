@@ -44,7 +44,7 @@ For task 2, we are required to: <br>
 For task 3, we are required to: <br>
 <ul>
 <li> Design a new Aircraft Model that achieve minimum cost for the challenge assigned to your group. <br> </li>
-<ul>
+</ul>
 
 
 <a id="Additional Task 1"></a>
