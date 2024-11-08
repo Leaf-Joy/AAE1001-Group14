@@ -31,6 +31,7 @@ For task 1, we are required to: <br>
 <li> Find an appropriate aircraft model that achieve minimum cost for each scenario for the challenge assigned to your group. <br> </li>
 </ul>
 
+![Task 1.gif](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201.gif?raw=true) <br>
 
 <a id="Task 2"></a>
 ## Task 2
@@ -38,7 +39,7 @@ For task 2, we are required to: <br>
 <ul>
 <li> Design a new cost area (jet stream) that can reduce the cost of the route. <br> </li>
 </ul>
-![Task 1.gif](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201.gif?raw=true) <br>
+
 
 
 <a id="Task 3"></a>
