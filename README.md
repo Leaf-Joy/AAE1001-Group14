@@ -27,28 +27,33 @@ Path Planning to Aviation Engineering is about designing better air routes to re
 <a id="Task 1"></a>
 ## Task 1
 For task 1, we are required to: <br>
-Find an appropriate aircraft model that achieve minimum cost for each scenario for the challenge assigned to your group. <br>
+<ul>
+<li> Find an appropriate aircraft model that achieve minimum cost for each scenario for the challenge assigned to your group. <br> </li>
+</ul>
 
 
 <a id="Task 2"></a>
 ## Task 2
 For task 2, we are required to: <br>
-Design a new cost area (jet stream) that can reduce the cost of the route. <br>
-
+<ul>
+<li> Design a new cost area (jet stream) that can reduce the cost of the route. <br> </li>
+</ul>
 
 <a id="Task 3"></a>
 ## Task 3
 For task 3, we are required to: <br>
-Design a new Aircraft Model that achieve minimum cost for the challenge assigned to your group. <br>
+<ul>
+<li> Design a new Aircraft Model that achieve minimum cost for the challenge assigned to your group. <br> </li>
+<ul>
 
 
 <a id="Additional Task 1"></a>
 ## Task A1
 For task A1, we are required to: <br>
-<ul> <li>
-Add one checkpoint for each cost ontensive area (two in total). <br>
-Reach all checkpoints before arriving at the destination. <br>
-</li> </ul>
+<ul>
+<li>Add one checkpoint for each cost ontensive area (two in total). <br> </li> 
+<li>Reach all checkpoints before arriving at the destination. <br> </li> 
+</ul>
 
 ![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/TastA1.gif) <br>
 We link the original starting point (starting point 1) to the new end point 1 created and set the position of end point 1 as starting point 2, then the positions of end point 1 and starting point 2 become check points 1. Then use the same logic to make checkpoint 2, but checkpoint 2 is link to the original end point. <br>
@@ -56,13 +61,14 @@ We link the original starting point (starting point 1) to the new end point 1 cr
 
 <a id="Additional Task 2"></a>
 ## Task A2
-For task A2, we are required to: <br>
-Modify the code so that: <br>
--Only the fuel-consuming area remains and generate it randomly with a fixed area (40x40) <br>
--Diagonal movement is disabled, change parameter(s) so that the object could travel within one grid size <br>
--Obstacles are generated randomly with reasonable density <br>
--Destination and starting points are generated randomly with at least a 40-unit distance in-between <br>
--Plotting of the fuel-consuming area would not cover the obstacles, and obstacles should not generate at/near the start and end point <br>
+For task A2, we are required to modify the code so that: <br>
+<ul>
+<li> Only the fuel-consuming area remains and generate it randomly with a fixed area (40x40) <br> </li>
+<li> Diagonal movement is disabled, change parameter(s) so that the object could travel within one grid size <br> </li>
+<li> Obstacles are generated randomly with reasonable density <br> </li>
+<li> Destination and starting points are generated randomly with at least a 40-unit distance in-between <br> </li>
+<li> Plotting of the fuel-consuming area would not cover the obstacles, and obstacles should not generate at/near the start and end point <br> </li>
+</ul>
 
 
 <a id="Additional Task 3"></a>
