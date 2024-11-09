@@ -40,6 +40,7 @@ First, we modify the A* code by adjusting borders, obstacles, starting & ending 
 <!--![Cost formula.png](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Cost%20formula.png?raw=true) <br>
 ![Task 1 scenrios.png](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201%20scenarios.png?raw=true) <br>-->
 After finding the time, we calculate the cost of 3 aircrafts base on this formula in 3 different scenarios. <br>
+
 <!-- Cost of 3 scenario -->
 <a id="Cost of 3 scenario"></a>
 ## Cost of 3 scenario
