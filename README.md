@@ -32,6 +32,42 @@ For task 1, we are required to: <br>
 </ul>
 
 ![Task 1.gif](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201.gif?raw=true) <br>
+First, we modify the A* code by adjusting borders, obstacles, starting & ending point, and cost-intensive areas, so that we can find the shortest path and the shortest time to reach the ending point from the starting point. <br>
+![Cost formula.png](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Cost%20formula.png?raw=true) <br>
+![Task 1 scenrios.png](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201%20scenarios.png?raw=true) <br>
+After finding the time, we calculate the cost of 3 aircrafts base on this formula in 3 different scenarios. <br>
+<!-- Cost of 3 scenario -->
+<a id="Cost of 3 scenario"></a>
+## Cost of 3 scenario
+<table style="width: 100%" border="1">
+      <tbody>
+        <tr>
+          <td><br>
+          </td>
+          <td>scenario 1</td>
+          <td>scenario 2</td>
+          <td>scenario 3</td>
+        </tr>
+        <tr>
+          <td>A321</td>
+          <td>80664.78199526577</td>
+          <td>38651.84154413771</td>
+          <td>93392.7503747729</td>
+        </tr>
+        <tr>
+          <td>A330-900neo</td>
+          <td>94516.06151080105</td>
+          <td>54319.666004656065</td>
+          <td>92937.6516749357</td>
+        </tr>
+        <tr>
+          <td>A350-900</td>
+          <td>97911.9406095872</td>
+          <td>49770.00548336953</td>
+          <td>94129.60386034427</td>
+        </tr>
+      </tbody>
+    </table>
 
 
 <a id="Task 2"></a>
@@ -86,39 +122,4 @@ For task A3, we are required to: <br>
 <li> Modify the code so all 3 algorithms are working with the same obstacle set <br> </li>
 <li> Try and compare the algorithms and conduct a discussion <br> </li>
 </ul>
-
-
-
-<!-- Cost of 3 scenario -->
-<a id="Cost of 3 scenario"></a>
-## Cost of 3 scenario
-<table style="width: 100%" border="1">
-      <tbody>
-        <tr>
-          <td><br>
-          </td>
-          <td>scenario 1</td>
-          <td>scenario 2</td>
-          <td>scenario 3</td>
-        </tr>
-        <tr>
-          <td>A321</td>
-          <td>80664.78199526577</td>
-          <td>38651.84154413771</td>
-          <td>93392.7503747729</td>
-        </tr>
-        <tr>
-          <td>A330-900neo</td>
-          <td>94516.06151080105</td>
-          <td>54319.666004656065</td>
-          <td>92937.6516749357</td>
-        </tr>
-        <tr>
-          <td>A350-900</td>
-          <td>97911.9406095872</td>
-          <td>49770.00548336953</td>
-          <td>94129.60386034427</td>
-        </tr>
-      </tbody>
-    </table>
 
