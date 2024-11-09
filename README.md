@@ -11,12 +11,12 @@ We should finish before 1/12/2024.
     <ol>
       <li><a href="#Introduction">Introduction<a/></li>
       <li><a href="#Task 1">Task 1<a/></li>
+      <li><a href="#Cost of 3 scenario">Cost of 3 scenario</a></li>
       <li><a href="#Task 2">Task 2<a/></li>
       <li><a href="#Task 3">Task 3<a/></li>
       <li><a href="#Additional Task 1">Additional Task 1<a/></li>
       <li><a href="#Additional Task 2">Additional Task 2<a/></li>
       <li><a href="#Additional Task 3">Additional Task 3<a/></li>
-      <li><a href="#Cost of 3 scenario">Cost of 3 scenario</a></li>
     </ol>
 </details>
 
@@ -33,8 +33,12 @@ For task 1, we are required to: <br>
 
 ![Task 1.gif](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201.gif?raw=true) <br>
 First, we modify the A* code by adjusting borders, obstacles, starting & ending point, and cost-intensive areas, so that we can find the shortest path and the shortest time to reach the ending point from the starting point. <br>
-![Cost formula.png](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Cost%20formula.png?raw=true) <br>
-![Task 1 scenrios.png](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201%20scenarios.png?raw=true) <br>
+<p align="center">
+  <img src="https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Cost%20formula.png?raw=true)" alt="Cost formula.png"> <br>
+  <img src="https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201%20scenarios.png?raw=true" alt="Task 1 scenarios.png"> <br>
+</p>
+<!--![Cost formula.png](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Cost%20formula.png?raw=true) <br>
+![Task 1 scenrios.png](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201%20scenarios.png?raw=true) <br>-->
 After finding the time, we calculate the cost of 3 aircrafts base on this formula in 3 different scenarios. <br>
 <!-- Cost of 3 scenario -->
 <a id="Cost of 3 scenario"></a>
