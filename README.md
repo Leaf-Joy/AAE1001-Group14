@@ -33,6 +33,7 @@ For task 1, we are required to: <br>
 
 ![Task 1.gif](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201.gif?raw=true) <br>
 
+
 <a id="Task 2"></a>
 ## Task 2
 For task 2, we are required to: <br>
@@ -40,6 +41,7 @@ For task 2, we are required to: <br>
 <li> Design a new cost area (jet stream) that can reduce the cost of the route. <br> </li>
 </ul>
 
+![Task 2.gif](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%202.gif?raw=true) <br>
 
 
 <a id="Task 3"></a>
