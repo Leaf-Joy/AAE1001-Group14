@@ -32,7 +32,10 @@ For task 1, we are required to: <br>
 </ul>
 
 ![Task 1.gif](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201.gif?raw=true) <br>
-First, we modify the A* code by adjusting borders, obstacles, starting & ending point, and cost-intensive areas, so that we can find the shortest path and the shortest time to reach the ending point from the starting point. <br>
+<p align="center">
+  <img src="https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201%20output.png?raw=true" alt="Task 1 output.png"> <br>
+</p>
+First, we modify the A* code by adjusting borders, obstacles, starting & ending point, and cost-intensive areas. Then we can find the shortest path and the shortest time to reach the ending point from the starting point. <br>
 <p align="center">
   <img src="https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Cost%20formula.png?raw=true)" alt="Cost formula.png"> <br>
   <img src="https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201%20scenarios.png?raw=true" alt="Task 1 scenarios.png"> <br>
