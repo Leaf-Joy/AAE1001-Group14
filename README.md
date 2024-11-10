@@ -42,7 +42,7 @@ First, we modify the A* code by adjusting borders, obstacles, starting & ending 
 </p>
 <!--![Cost formula.png](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Cost%20formula.png?raw=true) <br>
 ![Task 1 scenrios.png](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201%20scenarios.png?raw=true) <br>-->
-After finding the time, we calculate the cost of 3 aircrafts base on this formula in 3 different scenarios. <br>
+After finding the time, we calculate the cost of 3 aircrafts based on this formula in 3 different scenarios. <br>
 
 <!-- Cost of 3 scenario -->
 <a id="Cost of 3 scenario"></a>
@@ -86,15 +86,22 @@ For task 2, we are required to: <br>
 </ul>
 
 ![Task 2.gif](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%202.gif?raw=true) <br>
-
+<p align="center">
+  <img src="https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%202%20output.png?raw=true" alt="Task 2 output.png"> <br>
+</p>
+We modify the code so that jet stream is added from (-12,5) to (60,10), in which the new cost equals to 0.95 times the original cost. <br>
 
 <a id="Task 3"></a>
 ## Task 3
 For task 3, we are required to: <br>
 <ul>
-<li> Design a new Aircraft Model that achieve minimum cost for the challenge assigned to your group. <br> </li>
+<li> Design a new aircraft model that achieve minimum cost for the challenge assigned to your group. <br> </li>
 </ul>
 
+Name of aircraft: Cloud Cruiser - 777 <br>
+Passenger capacity: 449 <br>
+Engine count: 4 <br>
+We calculate the cost based on different passenger capacity of the aircraft model. Then, we find that when passenger capacity is 449, the cost is the lowest. <br>
 
 
 <a id="Additional Task 1"></a>
