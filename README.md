@@ -25,7 +25,7 @@ We should finish before 1/12/2024.
 Path Planning to Aviation Engineering is about designing better air routes to reduce fuel consumption, increase efficiency, and ultimately increase the airline's ability to make money. 
 
 <a id="Task 1"></a>
-## Task 1
+## Task 1 ($${\color{red}Guys,\ remember\ to\ change\ the\ ending\ point\ to\ (-5, -5)}$$)
 For task 1, we are required to: <br>
 <ul>
 <li> Find an appropriate aircraft model that achieve minimum cost for each scenario for the challenge assigned to your group. <br> </li>
