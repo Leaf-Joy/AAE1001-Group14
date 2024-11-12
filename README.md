@@ -16,7 +16,7 @@ We should finish before 1/12/2024.
       <li><a href="#Task 3">Task 3<a/></li>
       <li><a href="#Additional Task 1">Additional Task 1<a/></li>
       <li><a href="#Additional Task 2">Additional Task 2<a/></li>
-      <li><a href="#Additional Task 3">Additional Task 3<a/></li>
+      <!--<li><a href="#Additional Task 3">Additional Task 3<a/></li>-->
     </ol>
 </details>
 
@@ -128,7 +128,7 @@ For task A2, we are required to modify the code so that: <br>
 </ul>
 
 
-
+<!--
 <a id="Additional Task 3"></a>
 ## Task A3
 For task A3, we are required to: <br> 
@@ -137,4 +137,4 @@ For task A3, we are required to: <br>
 <li> Modify the code so all 3 algorithms are working with the same obstacle set <br> </li>
 <li> Try and compare the algorithms and conduct a discussion <br> </li>
 </ul>
-
+-->
