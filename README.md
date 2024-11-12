@@ -47,7 +47,7 @@ After finding the time, we calculate the cost of 3 aircrafts based on this formu
 
 <!-- Cost of 3 scenario -->
 <a id="Cost of 3 scenario"></a>
-## Cost of 3 scenario
+## Cost of 3 scenarios
 <table style="width: 100%" border="1">
       <tbody>
         <tr>
