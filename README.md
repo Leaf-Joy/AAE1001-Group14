@@ -78,6 +78,11 @@ After finding the time, we calculate the cost of 3 aircrafts based on this formu
       </tbody>
     </table>
 
+The aircraft type to achieve minimum cost :<br> 
+Scenario 1 : A321<br>
+Scenario 2 : A321<br>
+Scenario 3 : A330-900neo<br>
+
 
 <a id="Task 2"></a>
 ## Task 2
