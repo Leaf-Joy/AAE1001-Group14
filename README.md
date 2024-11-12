@@ -101,6 +101,10 @@ For task 3, we are required to: <br>
 Name of aircraft: Cloud Cruiser - 777 <br>
 Passenger capacity: 449 <br>
 Engine count: 4 <br>
+
+<p align="center">
+  <img src="https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%203%20example.png?raw=true" alt="Task 3 example.png"> <br>
+</p>
 We calculate the cost based on different passenger capacity of the aircraft model. Then, we find that when passenger capacity is 449, the cost is the lowest. <br>
 
 
