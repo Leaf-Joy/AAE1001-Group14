@@ -31,8 +31,9 @@ For task 1, we are required to: <br>
 <li> Find an appropriate aircraft model that achieve minimum cost for each scenario for the challenge assigned to your group. <br> </li>
 </ul>
 
-![Task 1.gif](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201.gif?raw=true) <br>
+<!--![Task 1.gif](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201.gif?raw=true) <br>-->
 <p align="center">
+  <img src="https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201.gif?raw=true" alt="Task 1.gif" width="90%" height="90%"> <br>
   <img src="https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%201%20output.png?raw=true" alt="Task 1 output.png"> <br>
 </p>
 First, we modify the A* code by adjusting borders, obstacles, starting & ending point, and cost-intensive areas. Then we can find the shortest path and the shortest time to reach the ending point from the starting point. <br>
@@ -87,7 +88,7 @@ For task 2, we are required to: <br>
 
 <!--![Task 2.gif](https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%202.gif?raw=true) <br>-->
 <p align="center">
-  <img src="https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%202.gif?raw=true" alt="Task 2.gif" width="80%" height="80%"> <br>
+  <img src="https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%202.gif?raw=true" alt="Task 2.gif" width="90%" height="90%"> <br>
   <img src="https://github.com/Leaf-Joy/AAE1001-Group14/blob/main/Photos/Task%202%20output.png?raw=true" alt="Task 2 output.png"> <br>
 </p>
 We modify the code so that jet stream is added from (-12,5) to (60,10), in which the new cost equals to 0.95 times the original cost. <br>
