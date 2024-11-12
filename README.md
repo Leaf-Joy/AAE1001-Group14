@@ -118,7 +118,7 @@ For task A1, we are required to: <br>
 </ul>
 
 ![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/TastA1.gif) <br>
-We link the original starting point (starting point 1) to the new end point 1 created and set the position of end point 1 as starting point 2, then the positions of end point 1 and starting point 2 become check points 1. Then use the same logic to make checkpoint 2, but checkpoint 2 is link to the original end point. <br>
+We link the original starting point (starting point 0) to the new end point 1 created and set the position of end point 1 as starting point 1, then the positions of end point 1 and starting point 1 become check points 1. Then use the same logic to make checkpoint 2, but checkpoint 2 is link to the original end point. <br>
 
 
 <a id="Additional Task 2"></a>
