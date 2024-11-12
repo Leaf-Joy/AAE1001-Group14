@@ -119,7 +119,9 @@ We link the original starting point (starting point 1) to the new end point 1 cr
 <a id="Additional Task 2"></a>
 ## Task A2
 For task A2, we are required to modify the code so that: <be>
-![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(1)%2000_00_00-00_00_30.gif)(https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(2)%2000_00_00-00_00_30.gif)(https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(3)%2000_00_00-00_00_30.gif)
+![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(1)%2000_00_00-00_00_30.gif)
+![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(2)%2000_00_00-00_00_30.gif)
+![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(3)%2000_00_00-00_00_30.gif)
 <ul>
 <li> Only the fuel-consuming area remains and generate it randomly with a fixed area (40x40) <br> </li>
 <li> Diagonal movement is disabled, change parameter(s) so that the object could travel within one grid size <br> </li>
