@@ -129,10 +129,10 @@ We link the original starting point (starting point 0) to the new end point 1 cr
 
 <a id="Additional Task 2"></a>
 ## Task A2
-For task A2, we are required to modify the code so that: <be>
-![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(1)%2000_00_00-00_00_30.gif)
+For task A2, we are required to modify the code so that: <br>
+<!--![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(1)%2000_00_00-00_00_30.gif)
 ![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(2)%2000_00_00-00_00_30.gif)
-![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(3)%2000_00_00-00_00_30.gif)
+![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(3)%2000_00_00-00_00_30.gif)-->
 <ul>
 <li> Only the fuel-consuming area remains and generate it randomly with a fixed area (40x40) <br> </li>
 <li> Diagonal movement is disabled, change parameter(s) so that the object could travel within one grid size <br> </li>
@@ -140,6 +140,9 @@ For task A2, we are required to modify the code so that: <be>
 <li> Destination and starting points are generated randomly with at least a 40-unit distance in-between <br> </li>
 <li> Plotting of the fuel-consuming area would not cover the obstacles, and obstacles should not generate at/near the start and end point <br> </li>
 </ul>
+![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(1)%2000_00_00-00_00_30.gif)
+![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(2)%2000_00_00-00_00_30.gif)
+![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(3)%2000_00_00-00_00_30.gif)
 
 
 <a id="Additional Task 3"></a>
