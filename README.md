@@ -140,9 +140,9 @@ For task A2, we are required to modify the code so that: <br>
 <li> Destination and starting points are generated randomly with at least a 40-unit distance in-between <br> </li>
 <li> Plotting of the fuel-consuming area would not cover the obstacles, and obstacles should not generate at/near the start and end point <br> </li>
 </ul>
-![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(1)%2000_00_00-00_00_30.gif)
-![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(2)%2000_00_00-00_00_30.gif)
-![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(3)%2000_00_00-00_00_30.gif)
+![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(1)%2000_00_00-00_00_30.gif) <br>
+![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(2)%2000_00_00-00_00_30.gif) <br>
+![This is an image](https://raw.githubusercontent.com/Leaf-Joy/AAE1001-Group14/refs/heads/main/Photos/Tast%20A2%20(3)%2000_00_00-00_00_30.gif) <br>
 
 
 <a id="Additional Task 3"></a>
