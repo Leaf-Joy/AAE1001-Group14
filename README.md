@@ -159,21 +159,21 @@ For task A3, we are required to: <br>
 2. Breadth-First Search (BFS) <br>
 
 
-<li>**Optimality:**<br></li>
+<li>__Optimality:__<br></li>
 
 A-star: Finds the optimal path using a heuristic to guide the search. The heuristic helps prioritize paths that are likely to reach the goal faster. <br>
 Dijkstra's Algorithm: Guarantees the shortest path in terms of cost but does not use a heuristic, leading to potentially exploring more nodes. <br>
 BFS: Finds the shortest path in terms of the number of edges in unweighted graphs but does not account for path cost. <br>
 
 
-<li>**Efficiency:**<br></li>
+<li>__Efficiency:__<br></li>
 
 A-star: Generally more efficient than Dijkstra’s when a good heuristic is used because it can disregard irrelevant paths earlier. <br>
 Dijkstra's Algorithm: Can be slower than A-star in large graphs because it explores all possible paths equally. <br>
 BFS: Efficient for unweighted graphs but can be less efficient in weighted scenarios since it doesn't account for cost differences. <br>
 
 
-<li>**Use Cases:**<br></li>
+<li>__Use Cases:__<br></li>
 
 A-star: Ideal for pathfinding in video games or navigation systems where a heuristic can be applied. <br>
 Dijkstra's Algorithm: Suitable for networks with varied edge weights, like road networks with different distances. <br>
